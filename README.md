@@ -1,2 +1,2 @@
 # new
-second repository
+second repository.
